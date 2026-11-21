@@ -1,6 +1,6 @@
 body {background-image: url(img/dota.png); background-size: 100%;}
 img {height: 80px; width: 80px;}
-a {color: red:}
+a {color: blue:}
 a:hover {color: blue; text-size: 100px;}
 .kik {height: 100px; width: 300px;}
 .kik:hover {height: 100px; width: 300px; border-radius: 50%;}
